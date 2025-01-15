@@ -1,11 +1,10 @@
-<h1>Hi there, I'm <a href="https://ikazakov.com/" target="_blank">Ivan</a> 
+<h1>Hi there, I'm <a href="https://ikazakov.com/" target="_blank">Ivan</a>
+<h3>Fullstack developer</h3>
+
+🔭 I love programming in JS/TS and C# ASP.NET
 
 <!--
-**IvanKazakov2352/IvanKazakov2352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I love programming in JS/TS and C# ASP.NET
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
