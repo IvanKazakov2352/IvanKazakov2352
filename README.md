@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://ikazakov.com/" target="_blank">Ivan</a> 
+<h1>Hi there, I'm <a href="https://ikazakov.com/" target="_blank">Ivan</a> 
 
 <!--
 **IvanKazakov2352/IvanKazakov2352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
